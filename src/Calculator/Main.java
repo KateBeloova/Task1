@@ -10,7 +10,7 @@ public class Main {
         Scanner input = new Scanner(System.in);
 
         while(true){
-            System.out.println("Welcome to the calculator.\nType the first argument:");
+            System.out.println("Welcome to the calculator!\nType the first argument:");
             double a = Double.parseDouble(input.next());
             System.out.println("Type the second argument:");
             double b = Double.parseDouble(input.next());
