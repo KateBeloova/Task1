@@ -14,7 +14,7 @@ public class Main {
             double a = Double.parseDouble(input.next());
             System.out.println("Type the second argument:");
             double b = Double.parseDouble(input.next());
-            System.out.println("Choose operation (+, -, *, /, ^):");
+            System.out.println("Choose operation (+, -, *, /, ^, %):");
             String str = input.next();
             switch (str){
                 case "+": System.out.println(calc.Add(a,b));
