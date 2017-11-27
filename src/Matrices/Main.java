@@ -3,10 +3,10 @@ import Matrices.MultiplyOfMatrices;
 public class Main {
     public static void main(String[] args) {
         int[][] mA =
-                {{33, 34, 12},
+                {{33, 58, 12},
                         {33, 19, 10},
                         {12, 14, 17},
-                        {84, 24, 51},
+                        {84, 84, 51},
                         {43, 71, 21}};
 
         int[][] mB =
